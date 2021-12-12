@@ -1,5 +1,5 @@
 
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Normal Guy who loves to know everything, Photographer, and Content Creator. Who is passionate about technologies and innovation ☁️ </samp></h4>
+<h4 align="center"><samp> Hi there 👋🏼  welcome to my Github! I'm a Normal Guy who loves to know everything, Photographer, and Content Creator. Who is passionate about technologies and innovation ☁️ </samp></h4>
 
 <p align="center">
   <img width="300" src="https://imgur.com/yAoHSJK.gif">
