@@ -6,7 +6,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://heysaksham.vercel.app/api/spotify)](https://open.spotify.com/4qcttd1ub58roqvmxwwwtsy2d?si=5e345e9e80fd4d33)
+&nbsp; [![Spotify](https://heysaksham.vercel.app/api/spotify)](https://open.spotify.com/4qcttd1ub58roqvmxwwwtsy2d?si=5e345e9e80fd4d33)
 
   </td>
   <td width="50%">
