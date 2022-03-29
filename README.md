@@ -39,3 +39,10 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 href="https://medium.com/@Bxrlin" target="_blank"><img alt="Medium" 
 src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
 </p>
+
+  <hr></hr>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="300"/>
+
+</div>
