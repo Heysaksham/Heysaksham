@@ -6,7 +6,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://heysaksham.vercel.app/api/spotify)](https://open.spotify.com/4qcttd1ub58roqvmxwwwtsy2d)
+&nbsp; <br> [![Spotify](https://heysaksham.vercel.app/api/spotify)](https://open.spotify.com/user/4qcttd1ub58roqvmxwwwtsy2d)
 
     
 &nbsp;<p align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/852568620012797972)](https://discord.com/users/852568620012797972)
