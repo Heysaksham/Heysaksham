@@ -14,9 +14,10 @@
 
 &nbsp; <br> [![Spotify](https://heysaksham.vercel.app/api/spotify)](https://open.spotify.com/4qcttd1ub58roqvmxwwwtsy2d)
 
-## DM me on Discord by clicking below
+
   </td>
   <td width="50%">
+    ## DM me on Discord by clicking below
 &nbsp;<p align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/852568620012797972)](https://discord.com/users/852568620012797972)
 
   </p>
