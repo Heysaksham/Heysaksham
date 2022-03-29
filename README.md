@@ -2,9 +2,7 @@
 <h4 align="center"><samp> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="14px"> welcome to my Github! I'm Saksham, I am passionate about technologies and innovation. I learned a lot from the open-source community.</samp></h4>
 
 
-<p align="center">
     [![Spotify](https://heysaksham.vercel.app/api/spotify)](https://open.spotify.com/4qcttd1ub58roqvmxwwwtsy2d?si=5e345e9e80fd4d33)
-</p>
 
 
 
