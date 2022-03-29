@@ -7,7 +7,7 @@
 </p>
 
 
-## What I'm listening to                                                 ## DM me on Discord by clicking below
+## What I'm listening toㅤㅤㅤㅤㅤㅤㅤㅤㅤ <h1 align="left">Contact</h1>
 <table width="100%"> 
   <tr>
   <td width="50%">
