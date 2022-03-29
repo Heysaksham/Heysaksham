@@ -16,7 +16,8 @@
 
   </td>
   <td width="50%">
-
+<h1 align="left">Contact</h1>
+<p align="left">You can DM me on Discord by clicking below</p>
 &nbsp;<p align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/852568620012797972)](https://discord.com/users/852568620012797972)
 
   </p>
