@@ -7,7 +7,7 @@
 </p>
 
 
-## What I'm listening toㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+## Spotify & Discord
 <table width="100%"> 
   <tr>
   <td width="50%">
