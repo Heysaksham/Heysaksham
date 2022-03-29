@@ -21,6 +21,7 @@
 &nbsp;<p align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/852568620012797972)](https://discord.com/users/852568620012797972)
 
   </p>
+    
   </td>
 </table>
 
