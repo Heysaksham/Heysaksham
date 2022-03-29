@@ -1,6 +1,6 @@
 ### 
 <h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="19px"> welcome to my Github! I'm Saksham, I am passionate about technologies and innovation. 
-I learned a lot from the open-source community.</h4>
+I learned a lot from the open-source community.</h3>
 
 
 <table width="100%"> 
