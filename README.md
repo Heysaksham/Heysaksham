@@ -10,7 +10,7 @@ I learned a lot from the open-source community.</h3>
 &nbsp; <br> [![Spotify](https://heysaksham.vercel.app/api/spotify?background_color=12100E&border_color=12100E)](https://open.spotify.com/user/4qcttd1ub58roqvmxwwwtsy2d)
 
     
-&nbsp;<p align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/852568620012797972/?theme=dark&bg=809ecf&hideDiscrim=true)](https://discord.com/users/852568620012797972)
+&nbsp;<p align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/852568620012797972/?theme=dark&bg=12100E&hideDiscrim=true)](https://discord.com/users/852568620012797972)
 
 
   </td>
