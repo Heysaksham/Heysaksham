@@ -8,7 +8,7 @@ I learned a lot from the open-source community.</h3>
 
     
 <br><br> Vibing to : 🎧  </strong></p>
-&nbsp; <br> [![Spotify](https://heysaksham.vercel.app/api/spotify?background_color=0D1117&border_color=0D1117)](https://open.spotify.com/user/4qcttd1ub58roqvmxwwwtsy2d) <br>
+&nbsp; <br> [![Spotify](https://heysaksham.vercel.app/api/spotify?background_color=0D1117&border_color=12100E)](https://open.spotify.com/user/4qcttd1ub58roqvmxwwwtsy2d) <br>
 
     
 &nbsp;<p align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/852568620012797972/?theme=dark&bg=5865F2&hideDiscrim=true)](https://discord.com/users/852568620012797972)
