@@ -15,8 +15,7 @@ I learned a lot from the open-source community.</h3>
 &nbsp;<p align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/852568620012797972/?theme=dark&bg=5865F2&hideDiscrim=true)](https://discord.com/users/852568620012797972)
 
 
-  </td>
-  <td width="50%">
+ 
 <div align="center" >
 
 <br>
