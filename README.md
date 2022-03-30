@@ -1,10 +1,8 @@
 ### 
-<div align="center" width="50">
-
 <h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="19px"> welcome to my Github! I'm Saksham, I am passionate about technologies and innovation. 
 I learned a lot from the open-source community.</h3>
 
-
+<div align="center" >
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -17,7 +15,7 @@ I learned a lot from the open-source community.</h3>
 
   </td>
   <td width="50%">
-
+<div align="center" >
 
 <br>
 <p align="center">
