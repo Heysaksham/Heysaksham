@@ -5,8 +5,7 @@ I learned a lot from the open-source community.</h3>
 <div align="center" >
 <table width="100%"> 
   
-  <tr>
-  <td width="80%">
+
     
 <br><br> Vibing to : 🎧  </strong></p>
 &nbsp; <br> [![Spotify](https://heysaksham.vercel.app/api/spotify?background_color=0D1117&border_color=0D1117)](https://open.spotify.com/user/4qcttd1ub58roqvmxwwwtsy2d) <br>
