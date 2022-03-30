@@ -1,4 +1,6 @@
 ### 
+<div align="center" width="50">
+
 <h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="19px"> welcome to my Github! I'm Saksham, I am passionate about technologies and innovation. 
 I learned a lot from the open-source community.</h3>
 
@@ -37,3 +39,5 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 href="https://medium.com/@Bxrlin" target="_blank"><img alt="Medium" 
 src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
 </p>
+
+  <div align="center" >
