@@ -1,5 +1,5 @@
 ### 
-<h3 align="center">Hey there <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/waving-hand-sign_1f44b.png" width="25px">  welcome to my Github! I'm bxrlin, I am passionate about technologies and innovation. 
+<h3 align="center">Hey there <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/waving-hand-sign_1f44b.png" width="20px">  welcome to my Github! I'm bxrlin, I am passionate about technologies and innovation. 
 I learned a lot from the open-source community.</h3>
 
 <div align="center" >
