@@ -1,5 +1,5 @@
 ### 
-<h3 align="center">Hey there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">  welcome to my Github! I'm bxrlin, I am passionate about technologies and innovation. 
+<h3 align="center">Hey there <img width="20" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">  welcome to my Github! I'm bxrlin, I am passionate about technologies and innovation. 
 I learned a lot from the open-source community.</h3>
 
 <div align="center" >
