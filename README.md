@@ -1,6 +1,6 @@
 ### 
-<h4 align="center"> - Hi I'm @bxrlin,
-I learned a lot from the open-source community.</h4>
+<h3 align="center"> - Hi I'm @bxrlin,
+I learned a lot from the open-source community.</h3>
 
 <div align="center" >
 <table width="100%"> 
