@@ -1,4 +1,5 @@
-<h3 align="center"> - Hi I'm @bxrlin,
+###
+- Hi I'm @bxrlin,
 I learned a lot from the open-source community.</h3>
 
 <div align="center" >
