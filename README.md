@@ -1,5 +1,5 @@
 ### 
-<h4 align="center"> - Hi I'm @bxrlin, I am passionate about technologies and innovation. 
+<h4 align="center"> - Hi I'm @bxrlin,
 I learned a lot from the open-source community.</h4>
 
 <div align="center" >
