@@ -1,15 +1,12 @@
 ###
-<p align="center">
-    
+<h4 align="center"> Hi I'm bxrlin, I am passionate about technologies and innovation. I learned a lot from the open-source community. <img width="19" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h4> 
 
-- Hi I'm @bxrlin,I learned a lot from the open-source community
-</p>
-  
+<div align="center" >
 <table width="100%"> 
   
 
-    
-<h4><h4><br><br> Vibing to : 🎧  </strong></p></h4>
+
+<h3><h3><br><br> Vibing to : 🎧  </strong></p></h3>
   
 &nbsp; <br> [![Spotify](https://heysaksham.vercel.app/api/spotify?background_color=12100E&border_color=12100E)](https://open.spotify.com/user/4qcttd1ub58roqvmxwwwtsy2d) <br>
 
