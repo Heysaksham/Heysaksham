@@ -1,8 +1,10 @@
 ###
-<align="center"> - Hi I'm @bxrlin,
-I learned a lot from the open-source community.</h3>
+<p align="center">
+    
 
-<div align="center" >
+- Hi I'm @bxrlin,I learned a lot from the open-source community
+</p>
+  
 <table width="100%"> 
   
 
