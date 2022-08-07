@@ -1,32 +1,48 @@
-###
-<h4 align="center"> Hi I'm bxrlin, I am passionate about technologies and innovation. I learned a lot from the open-source community. <img width="19" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h4> 
+<!-- bxrlin's Aesthetic GitHub Profile -->
+<div align="justify">
 
-<div align="center" >
-<table width="100%"> 
-  
-
-
-<h4><h4><br><br> Vibing to : 🎧  </strong></p></h4>
-  
-&nbsp; <br> [![Spotify](https://heysaksham.vercel.app/api/spotify?background_color=12100E&border_color=12100E)](https://open.spotify.com/user/4qcttd1ub58roqvmxwwwtsy2d) <br>
-
-    
-&nbsp;<p align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/852568620012797972/?theme=dark&bg=5865F2&hideDiscrim=true)](https://discord.com/users/852568620012797972)
-
-
- 
-<div align="center" >
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm Bxrlin, a Freelance Photographer, I learned a lot from the open-source community.
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+      <br>
+      <b>
+        ~ FRVR ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="40"> 
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="40"><br><br>
-  
-  
 
-<h3 align="center">Find me on</h3>
+<details>
+<summary><samp><b>More Info</b></samp></summary>
+
+<br>
+
+<p align="center">
+
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="30">
+
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="30"> 
+
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="30">
+
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="30">
+
+<p align="center">
+
+
+
+
+<p align="center"><samp>Find me on</samp></p>
 <p align="center"><a 
 href="https://github.com/bxrlin" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
@@ -38,4 +54,4 @@ href="https://medium.com/@Bxrlin" target="_blank"><img alt="Medium"
 src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
 </p>
 
-  <div align="center" >
+
