@@ -8,10 +8,10 @@
       <b>
         Hello There
       <br>
-        I'm Bxrlin, a Freelance Photographer, I learned a lot from the open-source community.
+        I'm Bxrlin, a Freelance Photographer, I like programming, I learned a lot from the open-source community.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=65a5f8&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=65a5f8&center=true&width=410&height=45&lines=I+click+beautiful+and+aesthetic+pictures.">
       <br>
       <b>
         ~ FRVR ~
@@ -29,13 +29,13 @@
 
 <p align="center">
 
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="30">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="35">
 
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="30"> 
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="35"> 
 
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="30">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="35">
 
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="30">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="35">
 
 <p align="center">
 
