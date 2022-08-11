@@ -39,8 +39,7 @@
 
 <p align="center">
 
-
-
+&nbsp;<p align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/852568620012797972/?idleMessage=ダークレイヴ&?theme=dark&bg=141414&hideDiscrim=false)](https://discord.com/users/852568620012797972)
 
 <p align="center"><samp>Find me on</samp></p>
 <p align="center"><a 
