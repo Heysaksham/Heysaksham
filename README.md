@@ -39,9 +39,8 @@
 
 <p align="center">
 
-&nbsp;<p align="center">[![Discord Presence](https://lanyard.cnrad.dev/api/852568620012797972?theme=dark&bg=141414&hideDiscrim=false&idleMessage=ダークレイヴ)](https://discord.com/users/852568620012797972)
-
 <p align="center"><samp>Find me on</samp></p>
+
 <p align="center"><a 
 href="https://github.com/bxrlin" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
