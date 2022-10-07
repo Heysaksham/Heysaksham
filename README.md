@@ -11,7 +11,7 @@
         I'm Bxrlin, a Freelance Photographer, I like programming, I learned a lot from the open-source community.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=99C3FF&center=true&width=410&height=45&lines=I+click+beautiful+and+aesthetic+pictures.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=618EC6&center=true&width=410&height=45&lines=I+click+beautiful+and+aesthetic+pictures.">
       <br>
       <b>
         ~ FRVR ~
