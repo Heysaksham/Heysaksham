@@ -9,7 +9,7 @@
         I'm Bxrlin, a Freelance Photographer, who knows sth.
       </b></I>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=618EC6&center=true&width=410&height=45&lines=I+click+beautiful+and+aesthetic+pictures.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=ABB3FFFF&center=true&width=410&height=45&lines=I+click+beautiful+and+aesthetic+pictures.">
       <br>
       <b>
         ~ FRVR ~
