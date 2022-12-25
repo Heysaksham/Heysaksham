@@ -1,15 +1,13 @@
-<!-- bxrlin's Aesthetic GitHub Profile -->
-<div align="justify">
-
+<p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
+<br>
 <!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
-  <p align="center">
+<p align="center">
     <samp>
-      <b>
+      <b><I>
         Hello There
       <br>
-        I'm Bxrlin, a Freelance Photographer, I like programming, I learned a lot from the open-source community.
-      </b>
+        I'm Bxrlin, a Freelance Photographer, who knows sth.
+      </b></I>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=618EC6&center=true&width=410&height=45&lines=I+click+beautiful+and+aesthetic+pictures.">
       <br>
@@ -18,7 +16,7 @@
       </b>
     </samp>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+<p align="right"><strong><samp></samp></strong></p>
 
 <br>
 
