@@ -6,7 +6,7 @@
       <b><I>
         Hello There
       <br>
-        I'm Bxrlin, a Freelance Photographer, who knows sth.
+        I'm Bxrlin, a Freelance Photographer, i code sometimes.
       </b></I>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=ABB3FFFF&center=true&width=410&height=45&lines=I+click+beautiful+and+aesthetic+pictures.">
