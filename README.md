@@ -11,7 +11,7 @@
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=ABB3FFFF&center=true&width=410&height=45&lines=I+click+beautiful+and+aesthetic+pictures.">
       <br>
-        ~ FRVR ~
+        ~ ビクスリン ~
     </samp>
   </p>
 <p align="right"><strong><samp></samp></strong></p>
